@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from project5 import Calc_E, Ef
+from Wave_propogation_sim.py import Calc_E, Ef
 import csv
 
 #creates my constants
